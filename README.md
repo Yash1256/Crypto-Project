@@ -11,7 +11,7 @@ This paper has presented the group security using ECC. Group security is using t
 
 In the Implementation Part of the Project we have done the complete ECC Encryption Decryption and ECCDSA Part but for the GFGS Part according to our understandace we have created the di-gram selection (Words of length 2) and shown the Encryption time difference between normal and diword hashing but the part in which GFGS Algorithm is implemeted over layers that part is not implemented.<br>
 That part we will try to Implement in future.<br>
-[Implementation of Our Part](https://gist.github.com/Yash1256/b7fda1082ecb6879914b79d6ba17799b)
+[Implementation of Our Part](https://gist.github.com/Yash1256/f42836fee464a257b5f73d7b24a8399f)
 
 ## Contributors:
 
